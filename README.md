@@ -17,6 +17,9 @@ Berfungsi menambahkan interaktivitas pada website, seperti animasi tombol, efek 
 SVG (Scalable Vector Graphics)
 Digunakan untuk menampilkan gambar vektor seperti ikon, ilustrasi, atau diagram. SVG dipilih karena fleksibel, tidak pecah saat diperbesar, serta mudah diintegrasikan dengan JavaScript untuk efek animasi.
 
+Figma
+Mendesain logo
+
 Fitur Utama Website
 1.Hero Section dengan ilustrasi SVG yang menarik.
 2.Navigasi Interaktif menggunakan JavaScript untuk smooth scrolling.
